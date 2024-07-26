@@ -1,0 +1,15 @@
+gunicorn
+flask
+flask_httpauth
+werkzeug
+tensorflow
+torch
+numpy
+pillow
+opencv-python
+requests
+pytesseract
+SpeechRecognition
+moviepy
+requests
+googletrans
